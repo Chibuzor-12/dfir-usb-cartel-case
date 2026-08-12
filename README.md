@@ -11,7 +11,7 @@
 
 <p align="center">
 <b>Case Reference:</b> CARTEL-USB-2026-08 &nbsp;·&nbsp;
-<b>Examiner:</b> Ateke Tamunonengieofori &nbsp;·&nbsp;
+<b>Examiner:</b> Obi David Chibuzor &nbsp;·&nbsp;
 <b>Date:</b> 3 August 2026
 </p>
 
